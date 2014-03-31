@@ -88,3 +88,18 @@ public class SampleConfigureActivity extends Activity {
 | `backoffMultiplier(float multiplier)` | backoff multiplier to apply to socket timeout per retry|
 | `tag(Object tag)` | tag to set on the request for use in cancelling |
 | `shouldCache(boolean cacheRequest)` | determines whether or not the request should be cached |
+
+Download
+--------
+Download [the latest JAR][2] or grab via Maven:
+```xml
+<dependency>
+<groupId>org.nicktate</groupId>
+<artifactId>projectile</artifactId>
+<version>(insert latest version)</version>
+</dependency>
+```
+or Gradle:
+```groovy
+compile 'org.nicktate:projectile:(insert latest version)'
+```
