@@ -91,7 +91,7 @@ public class SampleConfigureActivity extends Activity {
 
 Download
 --------
-Download [the latest JAR][2] or grab via Maven:
+Maven:
 ```xml
 <dependency>
 <groupId>org.nicktate</groupId>
