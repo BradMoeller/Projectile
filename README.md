@@ -94,9 +94,9 @@ Download
 Maven:
 ```xml
 <dependency>
-<groupId>org.nicktate</groupId>
-<artifactId>projectile</artifactId>
-<version>(insert latest version)</version>
+  <groupId>org.nicktate</groupId>
+  <artifactId>projectile</artifactId>
+  <version>(insert latest version)</version>
 </dependency>
 ```
 or Gradle:
