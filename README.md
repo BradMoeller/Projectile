@@ -1,5 +1,5 @@
-Projectile
-==========
+<img src="https://raw.github.com/nicktate/projectile/master/images/projectile.png" />
+
 A convenience utility for interfacing with volley and submitting requests. **Projectile** is a simple to use request builder with a focus on easy configuration. Take a look below for some quick examples on how to get started.
 
 Current version: **1.0.x**
